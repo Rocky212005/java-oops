@@ -1,0 +1,10 @@
+
+1.type of packeg in java-
+   a.invild packeg - java.util.packegname
+   b.user define packeg
+
+user define packeg-
+     1.how to create packeg- 
+        step1-definr packeg name in our particuler java file 
+        step2 - run cmd java.-d.filename.java
+     
